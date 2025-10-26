@@ -1,0 +1,23 @@
+# Core HF + model dependencies
+transformers==4.41.1
+huggingface_hub==0.23.2
+accelerate
+timm
+safetensors
+pycocotools
+
+# Core PyTorch stack
+torch
+torchvision
+torchaudio
+
+# Image processing
+Pillow
+opencv-python
+numpy
+
+# Visualization
+matplotlib
+
+# Utilities
+tqdm
